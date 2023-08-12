@@ -1,0 +1,6 @@
+*.iml
+/vpnLib/src/main/java/de/blinkt/openvpn/api/*.aidl
+/vpnLib/src/main/java/de/blinkt/openvpn/core/*.aidl
+/vpnLib/build/
+local.properties
+.idea/
